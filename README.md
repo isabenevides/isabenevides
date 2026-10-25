@@ -23,4 +23,4 @@ Computer Engineering student with professional experience in data and technology
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/isabella-b-0316882a5/)
+[LinkedIn](https://www.linkedin.com/in/isabella-b-0316882a5/) isabenevidessampaio@gmail.com
