@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Aspiring+Data+Engineer;Python+%C2%B7+SQL+%C2%B7+AWS)](https://git.io/typing-svg)
 
-**Computer Engineering Student @ UNIVESP** | Data Engineering & Cloud
+**Computer Engineering Student | Data & Software Engineering  
 
 ---
 
