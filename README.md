@@ -1,5 +1,5 @@
 
-**Computer Engineering Student | Data & Software Engineering  
+### Computer Engineering Student | Data & Software Engineering  
 
 ---
 
