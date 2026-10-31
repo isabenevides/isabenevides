@@ -5,7 +5,7 @@
 
 ### About Me
 
-Computer Engineering student with professional experience in data and technology at **Argus Media** and **Unilever**. Interested in building data pipelines, working with cloud technologies, and developing efficient data solutions.
+Computer Engineering student with professional experience in data and technology. Interested in building data pipelines, working with cloud technologies, and developing efficient data solutions.
 
 - Experience with data transformation, SQL, and cloud platforms.
 - Exploring **AWS** and building personal projects with public data.
